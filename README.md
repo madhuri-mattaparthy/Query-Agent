@@ -1,3 +1,4 @@
+### AI agent that interprets natural language queries and retrieves live Kubernetes cluster information using LLMs and Groq.
 # Query-Agent
 
 # Create the virtual env using command 
